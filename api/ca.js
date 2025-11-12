@@ -8,6 +8,6 @@ export default async function getCA(req, res) {
         }
         res.status(200).json({ success: true, ca: ca });
     } catch (error) {
-        res.status(500).json({ success: false, error: 'Failed to get CA' });
+        res.status(500).json({ success: false, error: `Failed to get CA: ${error.message}` });
     }
 }
