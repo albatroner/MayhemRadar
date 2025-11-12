@@ -94,7 +94,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/radar.git
+   git clone https://github.com/albatroner/MayhemRadar.git
    cd radar
    ```
 
@@ -242,8 +242,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - **Website**: [Coming Soon]
-- **Twitter/X**: [https://x.com/](https://x.com/)
-- **GitHub**: [https://github.com/](https://github.com/)
+- **Twitter/X**: [https://x.com/MayhemRadar](https://x.com/MayhemRadar)
+- **GitHub**: [https://github.com/albatroner/MayhemRadar](https://github.com/albatroner/MayhemRadar)
 
 ---
 

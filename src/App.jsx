@@ -39,12 +39,12 @@ const SocialXIcon = (props) => (
 const SOCIAL_LINKS = [
   {
     label: 'X',
-    href: 'https://x.com/',
+    href: 'https://x.com/MayhemRadar',
     Icon: SocialXIcon,
   },
   {
     label: 'GitHub',
-    href: 'https://github.com/',
+    href: 'https://github.com/albatroner/MayhemRadar',
     Icon: GitHubIcon,
   },
 ];
