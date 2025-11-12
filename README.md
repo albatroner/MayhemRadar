@@ -10,7 +10,7 @@
   [![Material-UI](https://img.shields.io/badge/MUI-7.3.5-007FFF?logo=mui)](https://mui.com/)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-  `CA: TBA`
+  `CA: GmcpM1PdMgpzqrrEfExaa9bX9Vb6WZURuY7kZ14Dpump`
 </div>
 
 ---
